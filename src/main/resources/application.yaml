@@ -14,3 +14,9 @@ spring:
     show-sql: true
   h2:
     console-enabled: true
+
+#custom properties
+json:
+  placeholder:
+    name: jsonPlaceholder
+    url: https://jsonplaceholder.typicode.com/
