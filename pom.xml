@@ -65,5 +65,4 @@
 		</plugins>
 		<finalName>order-service</finalName>
 	</build>
-
 </project>
